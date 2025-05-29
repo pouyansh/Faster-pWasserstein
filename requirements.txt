@@ -1,0 +1,7 @@
+cython
+numpy
+pandas
+pot
+torch
+scipy
+tqdm

@@ -1,0 +1,8 @@
+EPS = 1e-6
+DELTA = 1e-5
+
+IS_L1 = False
+
+USE_QUADTREE = False
+RUN_SINKHORN = False
+COST_MATRIX = False
